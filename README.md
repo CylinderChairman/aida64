@@ -1,12 +1,15 @@
 <!-- PROJECT SHIELDS -->
-<div align="center">
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/CylinderChairman/aida64.svg?style=for-the-badge
+[contributors-url]: https://github.com/CylinderChairman/aida64/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CylinderChairman/aida64.svg?style=for-the-badge
+[forks-url]: https://github.com/CylinderChairman/aida64/network/members
+[stars-shield]: https://img.shields.io/github/stars/CylinderChairman/aida64.svg?style=for-the-badge
+[stars-url]: https://github.com/CylinderChairman/aida64/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CylinderChairman/aida64.svg?style=for-the-badge
+[issues-url]: https://github.com/CylinderChairman/aida64/issues
+[license-shield]: https://img.shields.io/github/license/CylinderChairman/aida64.svg?style=for-the-badge
+[license-url]: https://github.com/CylinderChairman/aida64/blob/master/LICENSE.txt
 
 </div>
 
